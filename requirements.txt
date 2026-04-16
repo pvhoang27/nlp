@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+matplotlib
+wordcloud
+nltk
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+tensorflow
+scikit-learn
