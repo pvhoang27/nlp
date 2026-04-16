@@ -1,0 +1,7 @@
+# Đóng hết Python/VS Code/Jupyter
+cd E:\nlp
+python -m venv .venv310new
+.\.venv310new\Scripts\activate
+pip install --upgrade pip
+pip install tensorflow==2.10.1 numpy==1.23.5 protobuf==3.20.1
+# Cài thêm các package khác bạn cần
